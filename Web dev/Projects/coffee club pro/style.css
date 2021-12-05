@@ -16,11 +16,11 @@
 
 .para{
     font-size: 20px;
-margin: 3vw 3vw;
-border: 1px solid black;
-border-radius: 15px;
-padding: 22px;
-font-family: 'Noto Sans', sans-serif;
+    margin: 3vw 3vw;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 22px;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .para h2{
